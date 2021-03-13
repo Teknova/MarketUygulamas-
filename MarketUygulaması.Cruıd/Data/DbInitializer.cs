@@ -30,6 +30,8 @@ namespace MarketUygulaması.Cruıd.Data
 
         internal static void initialize()
         {
+
+            //merhaba
             throw new NotImplementedException();
         }
     }
